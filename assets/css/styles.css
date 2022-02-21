@@ -96,7 +96,7 @@
     margin-bottom: 20px;
     margin-right: 100px;
   }
-  /* Hero END*/
+  /* Hero End*/
 
   /* Value Prop Sect START */
   .value-num {
@@ -108,12 +108,12 @@
   
   section {
     display: flex;
-    margin: 10px;
+    margin: 15px;
   }
   
   .value-num h2 {
     font-size: 40px;
-    padding-left: 100pt;
+    padding-left: 90pt;
     padding-right: 15pt;
     flex: 2 20%;
     text-align: right;
@@ -132,28 +132,6 @@
       display: flex;
       padding-top: 20px;
   }
-/*
-  .about-me-grid-container {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-  }
-  
-  .about-me-grid-item {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-  
-  .about-me-grid-item img {
-    grid-row: 1 / 2;
-    width: 400px;
-
-  }
-  
-  .about-me-grid-container .blob {
-    grid-column: 2 / 5;
-  } */
 
   /* About ME START */
   #contact-me .details {
